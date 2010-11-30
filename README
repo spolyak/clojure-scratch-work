@@ -1,7 +1,0 @@
-This is a sample project to hold some clojure work.
-
-Some maven commands:
-
-mvn package appassembler:assemble
-
-sh ./target/appassembler/bin/simpleapp
