@@ -12,4 +12,3 @@ References
 * Maven: [maven.apache.org/](http://maven.apache.org/)
 *  Pablo's notes: [pupeno.com/blog/how-to-create-a-clojure-application/](http://pupeno.com/blog/how-to-create-a-clojure-application/)
 *  Maven appassembler: [mojo.codehaus.org/appassembler/appassembler-maven-plugin/](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin)
-* 
